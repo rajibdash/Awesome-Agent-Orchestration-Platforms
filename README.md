@@ -73,7 +73,6 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
 ## 🛠️ Vendor-Native SDKs & Protocols
-## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
 
 - **[OpenAI Agents SDK](https://github.com/openai/openai-python)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-python?style=social&color=white)](https://github.com/openai/openai-python/stargazers)  
