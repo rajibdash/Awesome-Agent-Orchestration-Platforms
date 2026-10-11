@@ -69,7 +69,10 @@ This repository tracks the most powerful tools for building, scaling, and managi
   Python runtime for hierarchical coding-agent orchestration. Each node runs in its own Git worktree, can delegate separable subtasks to child nodes, and operates within configurable iteration, depth, child, cost, and time limits.
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
   Open-source, local-first desktop AI workspace where a Commander turns goals into plans and coordinates specialist agents for research, coding, data analysis, documents, presentations, and video.
+- **[Tale](https://tale.dev/)**  
+  Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 
+## 🛠️ Vendor-Native SDKs & Protocols
 ## 🛠️ Vendor-Native SDKs & Protocols
 *Optimized for specific LLM providers and tool integration.*
 
